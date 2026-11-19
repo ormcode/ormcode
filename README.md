@@ -1,4 +1,4 @@
-## Кросс компилятор с нуля !
+## Кросс компилятор с нуля ! Это просто - <a href="https://ormcode.github.io/ormcode>руководство по шагам</a>.
 
 <!--
 **ormcode/ormcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
