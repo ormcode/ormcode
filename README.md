@@ -1,5 +1,5 @@
 ## Кросс компилятор с нуля ! Это просто !
-      https://ormcode.github.io/ormcode
+https://ormcode.github.io/ormcode
 
 <!--
 **ormcode/ormcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
